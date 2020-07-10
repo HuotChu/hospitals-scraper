@@ -18,9 +18,9 @@
   "author": "Honor Logic",
   "license": "GPL-3.0-only",
   "bugs": {
-    "url": "https://github.com/dtangeeda/hospitals-scraper/issues"
+    "url": "https://github.com/HuotChu/hospitals-scraper/issues"
   },
-  "homepage": "https://github.com/dtangeeda/hospitals-scraper#readme",
+  "homepage": "https://github.com/HuotChu/hospitals-scraper#readme",
   "keywords": [
     "scraper",
     "puppeteer"
